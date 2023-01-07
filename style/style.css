@@ -1,0 +1,214 @@
+* {
+    font-family: 'Work Sans';
+    /* border: 1px solid red; */
+}
+
+.header {
+    background-image: url("../image/banner/banner1.png");
+    background-size: cover;
+    padding-top: 35px;
+    margin-top: 0px;
+    height: 100%;
+    margin-bottom: 150px;
+}
+
+.header-text {
+    text-align: right;
+
+}
+
+.text-header {
+    margin: 200px;
+    margin-bottom: auto;
+}
+
+.button1 {
+    margin: 200px;
+    margin-top: auto;
+}
+
+.header-title {
+    font-weight: 700;
+    font-size: 65px;
+    margin-bottom: 25px;
+}
+
+.header-discription {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 30px;
+}
+
+.button1 {
+    background-color: #FD6E0A;
+    border: none;
+    border-radius: 5px;
+    padding: 18px 35px;
+    align-items: center;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.section {
+    display: flex;
+    align-items: center;
+}
+
+.image {
+    margin-left: 150px;
+    margin-right: 300px;
+}
+
+.section-discription {
+    margin-top: 200px;
+}
+
+.section-title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+}
+
+.details {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.list {
+    list-style: none;
+    line-height: 25px;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.planing {
+    display: flex;
+    justify-content: space-around;
+    margin: 100px 0;
+}
+
+.plan-img {
+    align-items: center;
+    margin-left: 30px;
+}
+
+.web1 {
+    margin-left: 50px;
+}
+
+.javascrip {
+    margin-left: 25px;
+}
+
+.javascrip1 {
+    margin-left: 40px;
+}
+
+.smoke {
+    margin-left: 15px;
+}
+
+.smoke1 {
+    margin-left: 45px;
+}
+
+.ecom {
+    margin-left: 45px;
+}
+
+.ecom1 {
+    margin-left: 55px;
+}
+
+.gradient-title {
+    font-weight: 700;
+    font-size: 40px;
+    margin-left: 200px;
+    color: aliceblue;
+}
+
+.button2 {
+    border: none;
+    border-radius: 5px;
+    padding: 18px 35px;
+    align-items: center;
+    color: #FD6E0A;
+    font-weight: 500;
+    font-size: 20px;
+    background-color: antiquewhite;
+    margin-left: 200px;
+}
+
+.gradient {
+    background-image: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 75%), url("../image/watch.png");
+    background-repeat: no-repeat;
+    margin-left: 200px;
+    height: 200px;
+}
+
+.footer-title {
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.footer-discription {
+    line-height: 26px;
+    margin-bottom: 25px;
+}
+
+.contact-email {
+    margin-bottom: 16px;
+}
+
+.phone {
+    margin-bottom: 30px;
+}
+
+.button3 {
+    border: none;
+    border-radius: 5px;
+    padding: 18px 35px;
+    color: #FD6E0A;
+    font-weight: 500;
+    font-size: 20px;
+    background-color: antiquewhite;
+    margin-top: 30px;
+}
+
+.footer-second-title {
+    font-weight: 600;
+    font-size: 35px;
+}
+
+.main-footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+    margin-top: 150px;
+}
+
+.footer1 {
+    margin-left: 200px;
+}
+
+.footer2 {
+    margin-right: 200px;
+    margin-top: 80px;
+}
+
+.email {
+    padding-bottom: 10px;
+    font-size: 25px;
+}
